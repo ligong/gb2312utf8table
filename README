@@ -1,0 +1,9 @@
+Generate a file containing GB2312 -> UTF8 table.
+     
+The output format is:
+     
+gb2312 utf-8 unicode char-in-utf8
+e.g.  
+
+b0a1  e5958a 21834     啊
+
